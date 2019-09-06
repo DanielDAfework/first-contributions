@@ -2,6 +2,7 @@
 
 - [aiden](https://github.com/acdlbs)
 - [cricri777](https://github.com/cricri777)
+- [Daniel Afework](https://github.com/DanielDAfework)
 - [sm0rux](https://github.com/sm0rux)
 -[generationXcode](https://github.com/generationXcode)
 - [manojranak1](https://github.com/manojranak1)
